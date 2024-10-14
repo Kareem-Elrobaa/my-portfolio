@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Html",
+    "icon": "https://img.icons8.com/?size=50&id=20909&format=png&color=000000"
+  },
+  {
+    "name": "Css",
+    "icon": "https://img.icons8.com/?size=50&id=21278&format=png&color=000000"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/?size=50&id=106036&format=png&color=F0DB4F"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/?size=50&id=PndQWK6M1Hjo&format=png&color=000000"
+  },
+  {
+    "name": "Tailwind",
+    "icon": "https://img.icons8.com/?size=50&id=4PiNHtUJVbLs&format=png&color=000000"
+  },
+  {
+    "name": "React Js",
+    "icon": "https://img.icons8.com/?size=50&id=viH7JJy51bHj&format=png&color=61DBFB"
+  },
+  {
+    "name": "Node Js",
+    "icon": "https://img.icons8.com/?size=50&id=hsPbhkOH4FMe&format=png&color=000000"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/?size=50&id=3tC9EQumUAuq&format=png&color=FFFFFF"
+  },
+  {
+    "name": "Photoshop",
+    "icon": "https://img.icons8.com/?size=50&id=13677&format=png&color=000000"
+  },
+  {
+    "name": "Office",
+    "icon": "https://img.icons8.com/?size=50&id=6kZdxe7t8OL1&format=png&color=000000"
+  },
+  {
+    "name": "Java",
+    "icon": "https://img.icons8.com/?size=50&id=Pd2x9GWu9ovX&format=png&color=000000"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/?size=50&id=13441&format=png&color=000000"
+  }
+]
